@@ -1,3 +1,4 @@
+
 function navbar() {
     var nav = document.getElementById('navbar');
     if (nav.className == 'navbar') {
