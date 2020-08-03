@@ -1,0 +1,33 @@
+[
+    {
+        "image": "01.PNG",
+        "title": "Independent",
+        "data": "Developed on its own, and development doesn’t depend on any other linux os"
+    },
+    {
+        "image": "02.PNG",
+        "title": "Lightening fast",
+        "data": "A Highly optimized and light weight collections of alog’s for the smooth and fast workflow"
+    },
+    {
+        "image": "03.PNG",
+        "title": "Highly Customizable",
+        "data": "Creativity is the only limit, you can customize each and every thing you use and you can"
+    },
+
+    {
+        "image": "04.PNG",
+        "title": "A Better Hierarchy",
+        "data": "Your apps are going to install on a seperate hierarch /apps, so that you can manage your apps, and system with stability"
+    },
+    {
+        "image": "05.PNG",
+        "title": "Bundle Kits",
+        "data": "Their is a bundle of apps and kits to suit your workflow, so that you need not to setup everything and integerate them"
+    },
+    {
+        "image": "06.PNG",
+        "title": "Surprise",
+        "data": "Their are a lot of things more inside, try and find out yourself"
+    }
+]

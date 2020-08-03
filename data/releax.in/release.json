@@ -1,0 +1,30 @@
+[{
+    "version": "0.5.b",
+    "mesg": "final release of 5th beta of releax os",
+    "url": {
+        "releax-0.5.b.iso":"https://manjeet.cloudtb.online/ISO/releax-0.5.b.iso"
+    }
+},
+{
+    "version" : "0.5.b - WSL",
+    "mesg" : "Window subsystem release of releax os 0.5.b",
+    "url" : {
+        "install.tar.gz": "https://manjeet.cloudtb.online/wsl/0.5.b/install.tar.gz",
+        "launcher.exe": "https://manjeet.cloudtb.online/wsl/0.5.b/launcher.exe",
+        "readme.md" : "https://manjeet.cloudtb.online/wsl/0.5.b/readme.md"
+    }
+},
+{
+    "version": "0.4.b",
+    "mesg": "final release of 4th beta of releax os",
+    "url": {
+        "releax-0.4.b.iso":"http://www.mediafire.com/file/rw6njt1sgv6w5h3/releax-0.4.b.iso"
+    }
+},
+{
+    "version": "0.4.b pre-release",
+    "mesg": "Pre release of 4th beta of releax os (unstable release)",
+    "url": {
+        "releax-0.4.b-pre.iso":"https://sourceforge.net/projects/releaxos/files/ISO/Beta/0.4/"
+    }
+}]

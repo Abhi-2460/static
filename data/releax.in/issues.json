@@ -1,0 +1,26 @@
+[
+    {
+        "target": "ntfs-3g",
+        "summary": "unable to mount ntfs(windows) partitions",
+        "brief": "Unable to access or mount ntfs partitions, Its because ntfs-3g is pre-installed, thunar did't find /sbin/mount.ntfs",
+        "status": "Fixed - Install ntfs-3g from Bazaar - AppMarket, and execute $ sudo ln -srv /bin/ntfs-3g /sbin/mount.ntfs"
+    },
+    {
+        "target": "tzdata, ntp",
+        "summary": "date time not autosync from internet",
+        "brief": "tzdata that provide localtime info and ntp is missing that sync time from internet",
+        "status": "Fixed - Install tzdata, ntp from Bazaar, and execute $ sudo /etc/init.d/ntpd-client start"
+    },
+    {
+        "target": "noto cjk fonts",
+        "summary": "noto cjk fonts missing",
+        "brief" : "noto cjk fonts missing",
+        "status": "will be added to repo as soon as possible"
+    },
+    {
+        "target": "xfce4-volumed",
+        "summary": "Volume keys not working",
+        "brief" : "xfce4-volumed is a volume keys control daemon for xfce DE",
+        "status": "Fixed - Install xfce4-volumed"
+    }
+]
